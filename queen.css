@@ -6,7 +6,7 @@
 body{
     background-color: #220002; 
     color:#ffffff; 
-    background-image:url("https://occ-0-7613-3663.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSzRQqMaM5IXcrgrT64Qtp3AZmvJU3mEwpA3Kiegs_qP3hMdpLLRnSZ9mVlvg8R9nO4SikNpRCvjI1gv1dsY2U7PJ75G0-WjI3Kv.jpg?r=a5a");
+    
 }
 nav{
     width: 100%;
@@ -28,12 +28,14 @@ nav .actions{
     background-position: center center;
    background-size:cover;
    background-repeat: no-repeat;
+   background-image:url("https://occ-0-7613-3663.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABXsQBkrCfwEomiuVvM7_AhvssD-PUBTkbIaiNvmI8YpE7RJ7vYE3phxyrrrWXba_ZmKkz7mpEqirIDYRE7935vA04HfQ41bFZCa_.jpg?r=1f1");
 
 }
 .banner  .bannercontent .bannertitle img{
-    height: auto;
+    
+    height: 800px;
     display: flex;
-    width:auto;
+    width: 700px;
 }
 nav .signin{
     background-color: red;
